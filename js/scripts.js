@@ -24,3 +24,4 @@ $(function() {
     $("#loginModal").modal('show');
     });
 });
+
